@@ -18,8 +18,8 @@ This is the continuation of the [Flight Booking Database](https://github.com/Vec
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/VectorCathedral/flight-booking-database
-cd flight-booking-database
+git clone https://github.com/VectorCathedral/flight-booking-api
+cd flight-booking-api
 ```
 
 ### 2. Create a .env file
