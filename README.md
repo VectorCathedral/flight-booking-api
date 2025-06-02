@@ -32,7 +32,8 @@ This is used to securely connect to your SQL Server instance.
 ### 3. Customize the SQL Connection String
 Inside the Python code, the SQL Server connection string looks like this:
 
-```con_string = (
+```
+con_string = (
     "Driver={ODBC Driver 18 for SQL Server};"
     "Server=SHP\\SQLEXPRESS;"
     "Database=AREYENG_FLIGHTS;"
