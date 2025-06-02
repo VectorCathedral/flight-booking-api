@@ -79,6 +79,7 @@ Returns a reservation for a specific reservation ID and customer ID.
 Deletes a reservation.
 
 🧠 Notes
+
 The database (AREYENG_FLIGHTS) should already exist and be populated as per Part 1 of this project.
 
 You must configure your SQL Server to accept TCP/IP connections and install the correct ODBC driver.
