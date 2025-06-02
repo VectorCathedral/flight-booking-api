@@ -20,7 +20,6 @@ This is the continuation of the [Flight Booking Database](https://github.com/Vec
 ```bash
 git clone https://github.com/VectorCathedral/flight-booking-database
 cd flight-booking-database
-Or continue in your own repo if this is a fork or related project.
 ```
 
 ### 2. Create a .env file
