@@ -1,0 +1,4 @@
+flask
+dotenv
+pyodbc
+json
